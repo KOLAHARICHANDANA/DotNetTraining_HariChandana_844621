@@ -1,0 +1,6 @@
+C:\Users\blt\source\repos\simpleMaths\simpleMaths\obj\Debug\simpleMaths.csproj.CoreCompileInputs.cache
+C:\Users\blt\source\repos\simpleMaths\simpleMaths\bin\Debug\simpleMaths.exe.config
+C:\Users\blt\source\repos\simpleMaths\simpleMaths\bin\Debug\simpleMaths.exe
+C:\Users\blt\source\repos\simpleMaths\simpleMaths\bin\Debug\simpleMaths.pdb
+C:\Users\blt\source\repos\simpleMaths\simpleMaths\obj\Debug\simpleMaths.exe
+C:\Users\blt\source\repos\simpleMaths\simpleMaths\obj\Debug\simpleMaths.pdb
