@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<title>Javascript string programming</title>
+</head>
+<body>
+<script type="text/javascript">
+var str='Hello this is saturday still we have training today still so far!';
+document.writeln('Length of, ' + str +' = '+str.length);
+document.writeln('</br>');
+
+
+  var ss1=str.substr(15,22);
+document.writeln('substring1=' +ss1);
+
+document.writeln('</br>');
+
+var ss2=str.substring(1,15);
+document.writeln('substring2 = ' +ss2);
+
+document.writeln('</br>');
+document.writeln('Index of saturday: ' + str.indexOf('saturday'));
+document.writeln('</br>');
+document.writeln('Index of still: ' + str.lastIndexOf('still'));
+</script>
+
+</body>
+</html>

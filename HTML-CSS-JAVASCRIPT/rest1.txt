@@ -1,0 +1,7 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>WELCOME RESTAURENT</title>
+<body bgcolor="violet">
+<img src="restaurent.jpg" height="500" width="500"/>

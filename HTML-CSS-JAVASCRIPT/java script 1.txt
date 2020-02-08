@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+<title> Ny first java scripting</title>
+<script type="text/javascript">
+var a='new';
+document.writeln(a);
+if(isNaN(A))
+{
+DOCUMENT.WRITELN('Its not a number');
+}
+else
+{
+document.writeln('Its a number');
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<title> my first java scripting</title>
+
+var msg1='this is a globally stored variable';
+<script type="text/javascript">
+
+function show()
+{
+var msg='hello world';
+document.writeln(msg);  // msg is local variable
+}
+
+document.writeln(msg); //cant access msg outside of the function
+document.writeln('</br>');
+document.writeln(msg1); // this works as msg1 is  global variable
+</head>
+</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<title>Form validation</title>
+</head>
+<body>
+<script="text/javascript">
+
+<form name=myForm">
+Name:<input type="text" id="fname"></br>
+
+DOB:<input type="text" id="tdob" required></br>
+          <input type="submit" id="btnsubmit" value="Submit">
+
+</form>
+<script>
+document.getElementById("btnSubmit").onclick=
+function validateform()
+{
+var x=document.forms["myForm"]["fname"] .value;
+if(x==" ")
+{
+window alert(" Name field cannot be empty");
+return false;
+}
+}
+</script>
+
+</body>
+</html>
