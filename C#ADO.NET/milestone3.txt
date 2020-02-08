@@ -1,0 +1,71 @@
+MILESTONE 3
+1.Does c#.NETsupport partial implementation of interfaces?
+a)True b)False c)Can't say d)None of the mentioned
+Answer: b
+Explanation: Interface is a behaviour.It represents a protocol or a contract of sorts.Hence,it is impossible to implement an interface partially.
+2.Write a  C# Program to display cost of a rectangle plot using inheritance.
+Program Explanation:
+In this C# program, create the object variable‘t’ for Tabletop class by passing the value of length as 7.5 and the value of width as 8.03 as an argument.
+
+The Tabletop class inherits the property of rectangle class. Compute the area of the rectangle using the formula
+Area = length * width
+
+Multiply the value of ‘area’ variable with 70 to compute the cost of the rectangle plot. Print the cost of a rectangle plot.
+Runtime Test Cases:
+Length: 7.5
+Width: 8.03
+Area: 60.225
+Cost: 4215.75
+Code:
+using System;
+    class Rectangle
+    {
+        protected double length;
+        protected double width;
+        public Rectangle(double l, double w)
+        {
+            length = l;
+            width = w;
+        }
+        public double GetArea()
+        {
+            return length * width;
+        }
+        public void Display()
+        {
+            Console.WriteLine("Length: {0}", length);
+            Console.WriteLine("Width: {0}", width);
+            Console.WriteLine("Area: {0}", GetArea());
+        }
+    } 
+    class Tabletop : Rectangle
+    {
+        private double cost;
+        public Tabletop(double l, double w)
+            : base(l, w)
+        { }
+        public double costcal()
+        {
+            double cost;
+            cost = GetArea() * 70;
+            return cost;
+        }
+        public void Display()
+        {
+            base.Display();
+            Console.WriteLine("Cost: {0}", costcal());
+        }
+    }
+    class CalRectangle
+    {
+        static void Main(string[] args)
+        {
+            Tabletop t = new Tabletop(7.5, 8.03);
+            t.Display();
+            Console.ReadLine();
+        }
+    }
+
+
+
+
