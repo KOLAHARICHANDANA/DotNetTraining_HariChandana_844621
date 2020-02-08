@@ -1,0 +1,7 @@
+C:\Users\blt\source\repos\arrays\arrays\obj\Debug\arrays.csprojResolveAssemblyReference.cache
+C:\Users\blt\source\repos\arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Users\blt\source\repos\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\blt\source\repos\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\blt\source\repos\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\blt\source\repos\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\blt\source\repos\arrays\arrays\obj\Debug\arrays.pdb
