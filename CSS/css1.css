@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>cascading style sheet example</title>
+<style>
+body{background-color:yellow;
+     color:darkblue;
+    }
+p{
+font-family:Times new roman;
+color:black;
+font-size:40px;
+}
+</style>
+</head>
+<img src="greenary.jpg" height="400" width="400" alt="This is a garden">
+<h2>This page is defined with cascading sheet for html elements</h2>
+<p>This is done with internal style</p>
+</html>
