@@ -1,0 +1,7 @@
+C:\Users\blt\source\repos\LINQToObjectsProg\LINQToObjectsProg\bin\Debug\LINQToObjectsProg.exe.config
+C:\Users\blt\source\repos\LINQToObjectsProg\LINQToObjectsProg\bin\Debug\LINQToObjectsProg.exe
+C:\Users\blt\source\repos\LINQToObjectsProg\LINQToObjectsProg\bin\Debug\LINQToObjectsProg.pdb
+C:\Users\blt\source\repos\LINQToObjectsProg\LINQToObjectsProg\obj\Debug\LINQToObjectsProg.csprojResolveAssemblyReference.cache
+C:\Users\blt\source\repos\LINQToObjectsProg\LINQToObjectsProg\obj\Debug\LINQToObjectsProg.csproj.CoreCompileInputs.cache
+C:\Users\blt\source\repos\LINQToObjectsProg\LINQToObjectsProg\obj\Debug\LINQToObjectsProg.exe
+C:\Users\blt\source\repos\LINQToObjectsProg\LINQToObjectsProg\obj\Debug\LINQToObjectsProg.pdb
