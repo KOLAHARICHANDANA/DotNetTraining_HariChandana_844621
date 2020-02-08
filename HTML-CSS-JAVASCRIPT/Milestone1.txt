@@ -1,0 +1,37 @@
+MILESTONE 1:
+1.What is the result of following snippet?
+window.location = = = document.location
+a)False      b)True   c)0  d)1
+Answer: b
+Explanation: The window.Location object can be used to get the current page address(URL) and to redirect the browser to a new page.The Document.Location read-only property returns a Location Object,which contains information about the URL of the document and provides methods for changing that URL and loading another URL.
+
+2.Display a message "Welcome!!!"on our demowebpage and when the user hovers over the message,a popup should be displayed with a message "Welcome to my webpage!!!".
+ Code:
+<html>
+<head>
+<title>Event!!!</title>
+<script type>="text/javascript">
+function trigger()
+{
+document.getElementById("hover").addEventListener("mouseover",popup);
+function popup()
+{
+alert("welcome to my webpage!!!");
+}
+}
+</script>
+<style>
+p
+{
+font-size:50px;
+position:fixed;
+left:500px;
+top:300px;
+}
+</style>
+</head>
+<body onload="trigger();">
+<p id ="hover">Welcome!!!</p>
+</body>
+</html>
+
