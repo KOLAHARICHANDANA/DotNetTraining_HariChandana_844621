@@ -1,0 +1,23 @@
+MILESTONE 2
+1. In SQL the spaces at the end of the string are removed by _______ function.
+a) Upper   b) String   c) Trim   d) Lower
+Answer: c
+Explanation:  The syntax of trim is Trim(s); where s-string
+2.Create a sample database say StudentDB,create a table student,and add Student Id,studentName,salary,departmentid,
+and retrive data from database whose departmentid is <3.
+Code:
+CREATE DATABASE StudentDB
+USE StudentDB;
+CREATE TABLE  Student
+(StuID int not null PRIMARY KEY,
+StuName varchar(50) not null,
+SSN bigint not null,
+Salary float not null,
+DepID int not null);
+Insert Into Student Values(1,'abc',1234,15.0000,1);
+Insert Into Student values(2,'def',5678,22.0000,2);
+Insert Into Student values(3,'ghi',4345,44.0000,3);
+Insert Into Student values(4,'ghijkl',415,44.0000,4);
+Insert Into Student values(5,'ghimno',4310,44.0000,5);
+select StuID,StuName,,Salary from Student where DepID<3;
+Select * from Student;
