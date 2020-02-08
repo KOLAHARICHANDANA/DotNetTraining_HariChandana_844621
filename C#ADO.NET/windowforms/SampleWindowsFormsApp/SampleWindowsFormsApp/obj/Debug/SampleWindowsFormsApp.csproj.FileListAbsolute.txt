@@ -1,0 +1,10 @@
+C:\Users\blt\source\repos\SampleWindowsFormsApp\SampleWindowsFormsApp\obj\Debug\SampleWindowsFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\blt\source\repos\SampleWindowsFormsApp\SampleWindowsFormsApp\obj\Debug\SampleWindowsFormsApp.Form1.resources
+C:\Users\blt\source\repos\SampleWindowsFormsApp\SampleWindowsFormsApp\obj\Debug\SampleWindowsFormsApp.Properties.Resources.resources
+C:\Users\blt\source\repos\SampleWindowsFormsApp\SampleWindowsFormsApp\obj\Debug\SampleWindowsFormsApp.csproj.GenerateResource.Cache
+C:\Users\blt\source\repos\SampleWindowsFormsApp\SampleWindowsFormsApp\obj\Debug\SampleWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\blt\source\repos\SampleWindowsFormsApp\SampleWindowsFormsApp\bin\Debug\SampleWindowsFormsApp.exe.config
+C:\Users\blt\source\repos\SampleWindowsFormsApp\SampleWindowsFormsApp\bin\Debug\SampleWindowsFormsApp.exe
+C:\Users\blt\source\repos\SampleWindowsFormsApp\SampleWindowsFormsApp\bin\Debug\SampleWindowsFormsApp.pdb
+C:\Users\blt\source\repos\SampleWindowsFormsApp\SampleWindowsFormsApp\obj\Debug\SampleWindowsFormsApp.exe
+C:\Users\blt\source\repos\SampleWindowsFormsApp\SampleWindowsFormsApp\obj\Debug\SampleWindowsFormsApp.pdb

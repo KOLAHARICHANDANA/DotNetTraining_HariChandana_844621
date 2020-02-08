@@ -1,0 +1,5 @@
+C:\Users\blt\source\repos\SampleWindowsAppProg\SampleWindowsAppProg\obj\Debug\SampleWindowsAppProg.csprojResolveAssemblyReference.cache
+C:\Users\blt\source\repos\SampleWindowsAppProg\SampleWindowsAppProg\obj\Debug\SampleWindowsAppProg.Form1.resources
+C:\Users\blt\source\repos\SampleWindowsAppProg\SampleWindowsAppProg\obj\Debug\SampleWindowsAppProg.Properties.Resources.resources
+C:\Users\blt\source\repos\SampleWindowsAppProg\SampleWindowsAppProg\obj\Debug\SampleWindowsAppProg.csproj.GenerateResource.Cache
+C:\Users\blt\source\repos\SampleWindowsAppProg\SampleWindowsAppProg\obj\Debug\SampleWindowsAppProg.csproj.CoreCompileInputs.cache
