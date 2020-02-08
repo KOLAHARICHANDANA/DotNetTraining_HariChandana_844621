@@ -1,0 +1,2 @@
+C:\Users\blt\source\repos\string\string\obj\Debug\string.csprojResolveAssemblyReference.cache
+C:\Users\blt\source\repos\string\string\obj\Debug\string.csproj.CoreCompileInputs.cache
