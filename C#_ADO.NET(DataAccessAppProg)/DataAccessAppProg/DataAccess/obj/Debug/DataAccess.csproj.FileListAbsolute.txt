@@ -1,0 +1,7 @@
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccess\bin\Debug\DataAccess.exe.config
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccess\bin\Debug\DataAccess.exe
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccess\obj\Debug\DataAccess.exe
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccess\obj\Debug\DataAccess.pdb

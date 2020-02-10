@@ -1,0 +1,12 @@
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccesswithDataAdapter\bin\Debug\DataAccesswithDataAdapter.exe.config
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccesswithDataAdapter\bin\Debug\DataAccesswithDataAdapter.exe
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccesswithDataAdapter\bin\Debug\DataAccesswithDataAdapter.pdb
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccesswithDataAdapter\obj\Debug\DataAccesswithDataAdapter.csprojResolveAssemblyReference.cache
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccesswithDataAdapter\obj\Debug\DataAccesswithDataAdapter.Form1.resources
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccesswithDataAdapter\obj\Debug\DataAccesswithDataAdapter.Properties.Resources.resources
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccesswithDataAdapter\obj\Debug\DataAccesswithDataAdapter.csproj.GenerateResource.Cache
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccesswithDataAdapter\obj\Debug\DataAccesswithDataAdapter.csproj.CoreCompileInputs.cache
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccesswithDataAdapter\obj\Debug\DataAccesswithDataAdapter.exe
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccesswithDataAdapter\obj\Debug\DataAccesswithDataAdapter.pdb
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccesswithDataAdapter\obj\Debug\DataAccesswithDataAdapter.Form2.resources
+C:\Users\blt\source\repos\DataAccessAppProg\DataAccesswithDataAdapter\obj\Debug\DataAccesswithDataAdapter.Form3.resources
